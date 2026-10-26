@@ -133,7 +133,7 @@ window.addEventListener('unhandledrejection',e=>{const a=document.getElementById
 /* ============ CONFIGURACIÓN ============
    Dejar vacío = modo demo local (datos solo en este navegador).
    Completar con los datos de su proyecto Supabase (plan gratuito) para uso multiusuario. */
-const CONFIG = { SUPABASE_URL: 'https://gdncvlbbjhiaujeqvzqh.supabase.co', SUPABASE_ANON_KEY: 'sb_publishable_VxaWEdRP2puTDbWbLxyldQ_hTIhWmyy' };
+const CONFIG = { SUPABASE_URL: 'https://gdncvlbbjhiaujeqvzqh.supabase.co/rest/v1/', SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdkbmN2bGJiamhpYXVqZXF2enFoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE5NTMyNTIsImV4cCI6MjEwNzUyOTI1Mn0.mCj6zkzLJDSm6tYGYdqWy2JNqz-GL4E40-RUM9p6bEU' };
 </script>
 
 <script>
